@@ -1,2 +1,1 @@
-# ATM_PY
-ATM using python language
+A basic ATM using PYTHON .
